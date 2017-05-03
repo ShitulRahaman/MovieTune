@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MovieTune</string>
+    <string name="vote_avg">Vote Avg</string>
+    <string name="popularity">Popularity</string>
+</resources>

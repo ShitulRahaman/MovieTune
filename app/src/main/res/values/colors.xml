@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="toolbar">#343a38</color>
+    <color name="tabsbar">#42a37c</color>
+    <color name="tab_background_selected">#eaf9f4</color>
+</resources>
